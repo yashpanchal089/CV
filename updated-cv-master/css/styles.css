@@ -1,0 +1,30 @@
+
+  body {
+    background-color: #FFEACA;
+  }
+  hr{
+    background-color: ;
+    border-style:  none ;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+  h1{
+    color: #424874;
+  }
+  h3{
+    color: #522d5b;
+  }
+  img{
+    height: 350px;
+  }
+ nav a{
+   text-decoration: none;
+   color: #835151;
+  display: inline;
+  padding: 0px 10px ;
+}
+.bigfont{
+  font-size: 18px;
+}
